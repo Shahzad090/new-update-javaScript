@@ -500,7 +500,7 @@
 
 // Reduce Array Method
 // let array = [1,2,3,4,5,6,7,8,9];
-// let outPut = array.reduce((prev , curret) => {
+// let outPut = array.reduce((prev , current) => {
 //     return prev + curret;
 // });
 // console.log(outPut);
